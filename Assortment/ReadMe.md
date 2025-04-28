@@ -1,7 +1,7 @@
 ## ASSORTMENT PROJECT
 
 ##Negative element
-![q1] (/ss/negative.png)
+![q1] (ss/negative.png)
 
 ##Largest element
 ![q2] (ss/largestOfAll.png)
