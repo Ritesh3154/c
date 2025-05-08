@@ -1,0 +1,3 @@
+Name: ritesh, Course: fullstack
+Name: sahil, Course: design
+Name: sandeep, Course: bootcamp
